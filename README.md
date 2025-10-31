@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **scheduling system**
 
-- 🌱 I’m currently learning **C, information security and AI**
+- 🌱 I’m currently learning **Rust, information security and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarcosKNB](https://github.com/MarcosKNB)
 
