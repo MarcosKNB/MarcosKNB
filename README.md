@@ -1,15 +1,15 @@
 <h1 align="center">I`m Marcos</h1>
 <h3 align="center">A computer science student at the Federal University of Ceará - UFC</h3>
 
-- 🔭 I’m currently working on **ML**
+- 🔭 I’m currently working on **Data engineering, ML and AI**
 
-- 🌱 I’m currently learning **Rust and ML**
+- 🌱 I’m currently learning **Data engineering and ML**
 
-- 🤝 I’m looking for help with **Rust**
+- 🤝 I’m looking for help with **Data engineering**
 
-- 💬 Ask me about **Python, Java, rust and cybersecurity**
+- 💬 Ask me about **Python, AI, data science and cybersecurity**
 
-- 📫 How to reach me **marcoskaua12345@gmail.com**
+- 📫 How to reach me **marcosknbpro@gmail.com**
 
 - ⚡ Fun fact **I have hyperfocus on logic.**
 
